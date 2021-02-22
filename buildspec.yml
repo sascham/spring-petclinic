@@ -1,7 +1,7 @@
 versiom: 0.2
 
 phases:
-  Install:
+  install:
     runtime-versions:
       java: openjdk8
     pre_build:
